@@ -1,0 +1,9 @@
+.container {
+  background-color: burlywood;
+}
+.product {
+  border: 1px solid green;
+}
+.price {
+  color: brown;
+}
